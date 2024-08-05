@@ -4,12 +4,12 @@ O objetivo do projeto é gerenciar informações sobre vendedores, incluindo fun
 (Create, Read, Update, Delete) e a capacidade de adicionar vendedores em lote a partir de uma planilha.
 
 # Funcionalidades
-  #Adicionar Vendedores: Cadastre novos vendedores com informações como nome, CPF, data de nascimento, email e estado (UF).
-  #Listar Vendedores: Veja a lista de todos os vendedores cadastrados no sistema.
-  #Atualizar Vendedores: Atualize as informações de vendedores existentes.
-  #Excluir Vendedores: Remova vendedores do sistema.
-  #Adicionar Vendedores em Lote: Carregue uma planilha com dados de vendedores para adicionar ou atualizar múltiplos registros de uma vez.
-  #Estrutura do Projeto
+  #Adicionar Vendedores: Cadastre novos vendedores com informações como nome, CPF, data de nascimento, email e estado (UF).<br>
+  #Listar Vendedores: Veja a lista de todos os vendedores cadastrados no sistema.<br>
+  #Atualizar Vendedores: Atualize as informações de vendedores existentes.<br>
+  #Excluir Vendedores: Remova vendedores do sistema.<br>
+  #Adicionar Vendedores em Lote: Carregue uma planilha com dados de vendedores para adicionar ou atualizar múltiplos registros de uma vez.<br>
+  # Estrutura do Projeto<br>
   #O projeto está organizado da seguinte forma:
 
 # app/: Contém a aplicação Flask.
@@ -24,6 +24,6 @@ O objetivo do projeto é gerenciar informações sobre vendedores, incluindo fun
  requirements.txt: Lista de dependências do projeto.<br>
 
 # Configuração e Execução
-  Requisitos
-  Python 3.8+
-  PostgreSQL
+  Requisitos<br>
+  Python 3.8+<br>
+  PostgreSQL<br>
