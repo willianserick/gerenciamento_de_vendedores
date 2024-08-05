@@ -13,15 +13,15 @@ O objetivo do projeto é gerenciar informações sobre vendedores, incluindo fun
   #O projeto está organizado da seguinte forma:
 
 # app/: Contém a aplicação Flask.
-  #models.py: Define a estrutura da tabela de vendedores e os métodos de serialização.
-  #routes.py: Define as rotas para interagir com a aplicação.
-  #init.py: Inicializa a aplicação e configura o banco de dados.
+  #models.py: Define a estrutura da tabela de vendedores e os métodos de serialização.<br>
+  #routes.py: Define as rotas para interagir com a aplicação.<br>
+  #init.py: Inicializa a aplicação e configura o banco de dados.<br>
   
-# migrations/: Pasta gerada pelo Alembic para gerenciar as migrações do banco de dados.
-# uploads/: Pasta onde as planilhas de vendedores podem ser armazenadas para processamento.
-# venv/: Ambiente virtual para gerenciar as dependências do projeto.
-# alembic.ini: Configuração do Alembic para migrações do banco de dados.
-# requirements.txt: Lista de dependências do projeto.
+ migrations/: Pasta gerada pelo Alembic para gerenciar as migrações do banco de dados.<br>
+ uploads/: Pasta onde as planilhas de vendedores podem ser armazenadas para processamento.<br>
+ venv/: Ambiente virtual para gerenciar as dependências do projeto.<br>
+ alembic.ini: Configuração do Alembic para migrações do banco de dados.<br>
+ requirements.txt: Lista de dependências do projeto.<br>
 
 # Configuração e Execução
   Requisitos
